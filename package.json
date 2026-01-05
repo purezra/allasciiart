@@ -1,0 +1,10 @@
+{
+	"name": "ascii_banner",
+	"version": "1.0.0",
+	"type": "module",
+	"dependencies": {
+		"figlet": "^1.9.4",
+		"jimp": "^0.22.12",
+		"sharp": "^0.34.5"
+	}
+}
